@@ -1,8 +1,8 @@
-[![Deploy](https://github.com/splunk/observability-workshop/actions/workflows/deploy.yml/badge.svg)](https://github.com/splunk/observability-workshop/actions/workflows/deploy.yml)
-![GitHub release (latest by date)](https://img.shields.io/github/v/tag/splunk/observability-workshop)
-![GitHub commits since the latest release (by SemVer)](https://img.shields.io/github/commits-since/splunk/observability-workshop/latest)
-![GitHub repo size](https://img.shields.io/github/repo-size/splunk/observability-workshop)
-![GitHub issues](https://img.shields.io/github/issues/splunk/observability-workshop)
+[![Deploy](https://github.com/timhard-splunk/observability-workshop/actions/workflows/deploy.yml/badge.svg)](https://github.com/splunk/observability-workshop/actions/workflows/deploy.yml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/tag/timhard-splunk/observability-workshop)
+![GitHub commits since the latest release (by SemVer)](https://img.shields.io/github/commits-since/timhard-splunk/observability-workshop/latest)
+![GitHub repo size](https://img.shields.io/github/repo-size/timhard-splunk/observability-workshop)
+![GitHub issues](https://img.shields.io/github/issues/timhard-splunk/observability-workshop)
 
 # Splunk Observability Cloud Workshops
 
@@ -20,8 +20,8 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ---
 
-To get started, please proceed to [The Splunk Observability Cloud Workshops Homepage](https://splunk.github.io/observability-workshop/latest/).
+To get started, please proceed to [The Splunk Observability Cloud Workshops Homepage](https://timhard-splunk.github.io/observability-workshop/latest/).
 
 Latest versions of the workshop are:
-- [v5.76](https://splunk.github.io/observability-workshop/v5.76/)
-- [v5.75](https://splunk.github.io/observability-workshop/v5.75/)
+- [v5.76](https://timhard-splunk.github.io/observability-workshop/v5.76/)
+- [v5.75](https://timhard-splunk.github.io/observability-workshop/v5.75/)
