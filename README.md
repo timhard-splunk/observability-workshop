@@ -1,4 +1,4 @@
-[![Deploy](https://github.com/timhard-splunk/observability-workshop/actions/workflows/deploy.yml/badge.svg)](https://github.com/splunk/observability-workshop/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/timhard-splunk/observability-workshop/actions/workflows/deploy.yml/badge.svg)](https://github.com/timhard-splunk/observability-workshop/actions/workflows/deploy.yml)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/tag/timhard-splunk/observability-workshop)
 ![GitHub commits since the latest release (by SemVer)](https://img.shields.io/github/commits-since/timhard-splunk/observability-workshop/latest)
 ![GitHub repo size](https://img.shields.io/github/repo-size/timhard-splunk/observability-workshop)
