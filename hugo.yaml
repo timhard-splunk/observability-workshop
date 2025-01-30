@@ -1,4 +1,4 @@
-baseURL: https://splunk.github.io/
+baseURL: https://timhard-splunk.github.io/
 relativeURLs: false
 #canonifyURLs: true
 noChmod: true
@@ -72,7 +72,7 @@ params:
 menu:
   shortcuts:
     - name: "<i class='fab fa-fw fa-github'></i> GitHub Repository"
-      url: "https://github.com/splunk/observability-workshop"
+      url: "https://github.com/timhard-splunk/observability-workshop"
       weight: 10
     - name: <i class="fab fa-fw fa-wpexplorer"></i> OpenTelemetry
       url: "https://opentelemetry.io"
